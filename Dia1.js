@@ -4,3 +4,6 @@ JavaScript sirve para hacer la pagina mas interactiva añadiendo botones y para 
 Los comandos <img.> para colocar una imagen y no tiene una etiqueta de cierre como <h1> pero si tienen algo similar al ser <img scr= https://static.wikia.nocookie.net/oneshot/images/0/02/Niko.png/revision/latest?cb=20170401115609/>
 <Href=> hace funcionales a las URLs que tengan un Target (mas informacion a futuro sobre Target)
 scr=Es requerido para mostrar correctamente la imagen alt= sirve para dar informacion en caso de no poder ver la imagen correctamente (cuestiones de accesibilidad)
+Imput/Type Se usan para realizar una accion y recolectar datos de los usuarios/especifica el tipo de Imput que se esta usando o realizando
+Checked se utiliza para que la casilla de verificacion este marcada por defecto y requiere un valor(si el atributo no esta presente la casilla esta desmarcada por defecto, Se le conoce como atributo booleano mas informacion a futuro)
+Articulos booleanos=Mas comunes de HTML (disabled, readonly, y required)
